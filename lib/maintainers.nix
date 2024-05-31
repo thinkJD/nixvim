@@ -67,4 +67,10 @@
     githubId = 67534814;
     name = "Ben";
   };
+  JdGeorgens = {
+    email = "jd.georgens@gmail.com";
+    github = "thinkJD";
+    githubId = 443633;
+    name = "Jan";
+  };
 }
